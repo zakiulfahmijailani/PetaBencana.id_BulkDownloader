@@ -22,7 +22,7 @@ Contributions are welcome! Please read the `CONTRIBUTING.md` for details on our 
 
 ### License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the Creative Commons License - see the `LICENSE` file for details.
 
 ### Acknowledgments
 
@@ -53,7 +53,7 @@ Kontribusi sangat dihargai! Silakan baca `CONTRIBUTING.md` untuk detail tentang 
 
 ### Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file `LICENSE` untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi Creative Commons - lihat file `LICENSE` untuk detailnya.
 
 ### Penghargaan
 
