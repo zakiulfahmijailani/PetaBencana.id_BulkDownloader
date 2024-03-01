@@ -29,6 +29,10 @@ This project is licensed under the Creative Commons License - see the `LICENSE` 
 - Thanks to PetaBencana.id for providing access to their API.
 - Thanks to all contributors who help in maintaining and improving this project.
 
+### Result
+![Map of Disaster Occurrences in Indonesia 2016-2024 taken by PetaBencana.id_BulkDownloader](https://github.com/zakiulfahmijailani/PetaBencana.id_BulkDownloader/blob/main/petabencana_map.png)
+
+
 ---
 
 ## Bahasa Indonesia
